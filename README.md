@@ -5,3 +5,8 @@
 
 ### Vias de contacto
 ![Website](www.linkedin.com/in/virginiarinconportillo)
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
